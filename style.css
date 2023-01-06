@@ -4,8 +4,8 @@
 
 body {
   margin: 0;
-  background-color: lightblue;
-  color: darkgray;
+  background-color: hsl(206, 66%, 71%);
+  color: #ffffff;
   font-family: sans-serif;
 }
 
@@ -64,7 +64,7 @@ body {
   text-transform: uppercase;
   font-weight: bold;
   font-size: 0.6rem;
-  color: darkgreen;
+  color: #ffffff;
 }
 
 .value-sub-info {
@@ -91,7 +91,7 @@ body {
 
 .day-card-day {
   font-size: 0.75rem;
-  color: blueviolet;
+  color: #ffffff;
   margin-top: 0.5rem;
 }
 
